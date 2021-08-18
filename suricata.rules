@@ -1,0 +1,1 @@
+pass tcp $CLOUD_CIDRS any -> $GITHUB $GITHUB_PORTS (msg:"Allow GitHub"; priority:1; sid:1;) 
