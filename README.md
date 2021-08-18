@@ -15,7 +15,9 @@ python suricata_md.py <rules file> <variables file> <output file>
 ```
 
 [View sample rules](suricata.rules)
+
 [View sample vars](variables.yml)
+
 [View sample output](rules.md)
 
 
